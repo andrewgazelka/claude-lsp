@@ -6,6 +6,5 @@
     "name": "Andrew Gazelka",
     "github": "andrewgazelka"
   },
-  "license": "MIT",
-  "hooks": "./hooks/hooks.json"
+  "license": "MIT"
 }
