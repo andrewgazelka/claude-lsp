@@ -1,5 +1,6 @@
 {
   "name": "claude-lsp",
+  "description": "Fast Rust type checking for Claude Code via persistent rust-analyzer",
   "owner": {
     "name": "Andrew Gazelka",
     "github": "andrewgazelka"
