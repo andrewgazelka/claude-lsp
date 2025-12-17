@@ -1,0 +1,11 @@
+{
+  "name": "claude-lsp",
+  "version": "0.1.0",
+  "description": "Fast Rust type checking via persistent rust-analyzer LSP daemon",
+  "author": {
+    "name": "Andrew Gazelka",
+    "github": "andrewgazelka"
+  },
+  "license": "MIT",
+  "hooks": "./hooks/hooks.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "claude-lsp",
+  "owner": {
+    "name": "Andrew Gazelka",
+    "github": "andrewgazelka"
+  },
+  "plugins": [
+    {
+      "name": "claude-lsp",
+      "source": "./",
+      "description": "Fast Rust type checking via persistent rust-analyzer LSP daemon",
+      "version": "0.1.0",
+      "author": {
+        "name": "Andrew Gazelka",
+        "github": "andrewgazelka"
+      },
+      "license": "MIT",
+      "keywords": ["rust", "lsp", "rust-analyzer", "diagnostics", "type-checking"],
+      "category": "development"
+    }
+  ]
+}
